@@ -1,0 +1,13 @@
+C:\Users\rohansharma\source\repos\Extension\Extension\bin\Debug\netcoreapp3.1\Extension.exe
+C:\Users\rohansharma\source\repos\Extension\Extension\bin\Debug\netcoreapp3.1\Extension.deps.json
+C:\Users\rohansharma\source\repos\Extension\Extension\bin\Debug\netcoreapp3.1\Extension.runtimeconfig.json
+C:\Users\rohansharma\source\repos\Extension\Extension\bin\Debug\netcoreapp3.1\Extension.runtimeconfig.dev.json
+C:\Users\rohansharma\source\repos\Extension\Extension\bin\Debug\netcoreapp3.1\Extension.dll
+C:\Users\rohansharma\source\repos\Extension\Extension\bin\Debug\netcoreapp3.1\Extension.pdb
+C:\Users\rohansharma\source\repos\Extension\Extension\obj\Debug\netcoreapp3.1\Extension.csproj.AssemblyReference.cache
+C:\Users\rohansharma\source\repos\Extension\Extension\obj\Debug\netcoreapp3.1\Extension.AssemblyInfoInputs.cache
+C:\Users\rohansharma\source\repos\Extension\Extension\obj\Debug\netcoreapp3.1\Extension.AssemblyInfo.cs
+C:\Users\rohansharma\source\repos\Extension\Extension\obj\Debug\netcoreapp3.1\Extension.csproj.CoreCompileInputs.cache
+C:\Users\rohansharma\source\repos\Extension\Extension\obj\Debug\netcoreapp3.1\Extension.dll
+C:\Users\rohansharma\source\repos\Extension\Extension\obj\Debug\netcoreapp3.1\Extension.pdb
+C:\Users\rohansharma\source\repos\Extension\Extension\obj\Debug\netcoreapp3.1\Extension.genruntimeconfig.cache
